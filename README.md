@@ -27,8 +27,6 @@
 ![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-### List of things I have worked with
-
 ###### Version Control
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
