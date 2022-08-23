@@ -1,3 +1,5 @@
+![DISCORD](https://discord.c99.nl/widget/theme-3/900981299022536757.png)
+
 ## Hi there, I'm Tejas Shettigar 
 
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
