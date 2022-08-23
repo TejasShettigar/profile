@@ -1,4 +1,4 @@
-![DISCORD](https://discord.c99.nl/widget/theme-3/900981299022536757.png)
+![DISCORD](https://discord.c99.nl/widget/theme-3/900981299022536757.png
 
 ## Hi there, I'm Tejas Shettigar 
 
